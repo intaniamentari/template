@@ -1,5 +1,3 @@
 **Sample Image**
 
-    ```markdown
-    ![Image](sample/sample.png)
-    ```
+![Image](sample/sample.png)
