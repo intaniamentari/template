@@ -1,3 +1,3 @@
 **Sample Image**
 
-[Image](sample.png)
+![Image](sample.png)
